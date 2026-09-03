@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "NOVA AI",
+    "slug": "nova-ai-v1",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "scheme": "novaai",
+    "android": {
+      "package": "com.novaai.v1",
+      "versionCode": 1
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
